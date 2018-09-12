@@ -1,5 +1,5 @@
 # Jigsaw Blog Boilerplate
-A preconfigured boilerplate for a Jigsaw-generated blog.
+A preconfigured boilerplate for a [Jigsaw](http://jigsaw.tighten.co/)-generated blog.
 
 ## Features / Roadmap
 
