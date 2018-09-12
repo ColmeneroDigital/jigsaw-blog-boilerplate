@@ -1,4 +1,4 @@
-# jigsaw-blog-boilerplate
+# Jigsaw Blog Boilerplate
 A preconfigured boilerplate for a Jigsaw-generated blog.
 
 ## Features / Roadmap
