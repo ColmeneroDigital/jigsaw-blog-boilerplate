@@ -1,7 +1,7 @@
 <?php
 
 return [
-    'baseUrl' => '',
+    'baseUrl' => 'https://example.com',
     'production' => false,
     'perPage' => 1, // For collection pagination.
     'collections' => [
