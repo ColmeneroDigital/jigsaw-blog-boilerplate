@@ -1,6 +1,6 @@
 @extends('_layouts.master')
 
 <h1>{{ $page->title }}</h1>
-<p>By {{ $page->author }} • {{ date('F j, Y', $page->date) }}</p>
+<p>By <a href="{{$page->authorPageUrl()}}">{{ $page->author }}</a> • {{ date('F j, Y', $page->date) }}</p>
 
 @yield('content')

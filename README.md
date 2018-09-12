@@ -8,5 +8,6 @@ A preconfigured boilerplate for a [Jigsaw](http://jigsaw.tighten.co/)-generated 
 - [ ] Bootstrap framework
 - [x] SEO: Sitemap.xml
 - [ ] SEO: Meta tags
+- [x] SEO: Robots.txt
 - [ ] PWA: Web Manifest
 - [ ] PWA: Service Worker
