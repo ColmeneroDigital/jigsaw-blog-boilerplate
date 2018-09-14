@@ -11,12 +11,7 @@ pagination:
 
     <ul>
         @foreach ($pagination->items as $post)
-            <li>
-                <a href="{{$post->getUrl()}}">{{ $post->title }}</a>
-                <div>
-                    {{$post->teaser()}}
-                </div>
-            </li>
+            @include('_partials.post-teaser', compact('post'))
         @endforeach
     </ul>
 
